@@ -1,6 +1,6 @@
 <h1>CHAT-APP _firebase_</h1>
 
-Chat App Firebase is a modern application template developed for real-time communication. With Firebase database integration, it provides instant updates, coupled with the strength of React and Sass for a robust user interface.
+Chat App Firebase is a modern application template developed for real-time communication. With Firebase database integration, it provides instant updates, coupled with the strength of React and Sass for a robust user interface. 
 
 <h2> Software Languages </h2>
 
