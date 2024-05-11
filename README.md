@@ -1,6 +1,6 @@
-h1>RECIPES _express-js_</h1>
+<h1>CHAT-APP _firebase_</h1>
 
-"Recipes" is a full-stack application where users can add new recipes, browse through existing ones, and easily delete recipes as desired. With its modern and user-friendly interface, the frontend part, developed with powerful technologies like React and React Router, makes navigating through recipes and adding new ones enjoyable. In the background, the backend part, developed with reliable and fast technologies such as Express and CORS, ensures the proper management of data. The product images are dynamically selected, sourced randomly from the https://picsum.photos/ website.
+Chat App Firebase is a modern application template developed for real-time communication. With Firebase database integration, it provides instant updates, coupled with the strength of React and Sass for a robust user interface.
 
 <h2> Software Languages </h2>
 
