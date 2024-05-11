@@ -6,7 +6,7 @@ h1>RECIPES _express-js_</h1>
 
 - HTML
 
-- CSS
+- SCSS
 
 - JavaScript
 
