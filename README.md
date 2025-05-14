@@ -8,8 +8,6 @@ Chat App Firebase is a modern application template developed for real-time commu
 
 - SCSS
 
-- JavaScript
-
 <h2> Libraries </h2>
 
 - React
